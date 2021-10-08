@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE reference SYSTEM "rfc2629.dtd">
+
+<reference anchor="CCITT.X225.1984">
+<front>
+<title>Session Protocol Specification for Open Systems Interconnection (OSI) for CCITT Applications</title>
+<author>
+<organization>International Telephone and Telegraph Consultative Committee</organization>
+</author>
+<date month="October" year="1984" />
+</front>
+
+<seriesInfo name="CCITT" value="Recommendation X.225" />
+
+</reference>

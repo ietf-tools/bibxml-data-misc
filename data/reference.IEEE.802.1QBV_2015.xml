@@ -1,0 +1,13 @@
+<reference anchor='IEEE.802.1QBV_2015' target='http://ieeexplore.ieee.org/servlet/opac?punumber=7572858'>
+ <front>
+  <title>IEEE Standard for Local and metropolitan area networks -- Bridges and Bridged Networks - Amendment 25: Enhancements for Scheduled Traffic</title>
+  <author>
+   <organization>IEEE</organization>
+  </author>
+  <date day='18' month='March' year='2016' />
+  <abstract><t>Enhancements to the forwarding process that supports scheduled traffic is provided in this amendment to IEEE Std 802.1Q-2014.</t>
+   </abstract>
+ </front>
+ <seriesInfo name='IEEE' value='802.1Qbv-2015' />
+ <seriesInfo name='DOI' value='10.1109/IEEESTD.2016.7572858' />
+</reference>

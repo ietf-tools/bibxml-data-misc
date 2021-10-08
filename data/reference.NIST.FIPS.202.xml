@@ -1,0 +1,11 @@
+<reference anchor="NIST.FIPS.202" target="http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.202.pdf">
+   <front>
+      <title>SHA-3 Standard:  Permutation-Based Hash and Extendable-Output Functions</title>
+      <author initials="M." surname="Dworkin" fullname="Morris J. Dworkin">
+	 <organization>National Institute of Standards and Technology</organization>
+      </author>
+      <date month="August" year="2015"/>
+   </front>
+   <seriesInfo name="FIPS" value="PUB 202"/>
+   <seriesInfo name="DOI" value="10.6028/nist.fips.202"/>
+</reference>

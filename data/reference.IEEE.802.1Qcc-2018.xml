@@ -1,0 +1,13 @@
+<reference anchor='IEEE.802.1Qcc-2018' target='http://ieeexplore.ieee.org/servlet/opac?punumber=8514110'>
+ <front>
+  <title>IEEE Standard for Local and Metropolitan Area Networks -- Bridges and Bridged Networks -- Amendment 31: Stream Reservation Protocol (SRP) Enhancements and Performance Improvements</title>
+  <author>
+   <organization>IEEE</organization>
+  </author>
+  <date day='31' month='October' year='2018' />
+  <abstract><t>Enhancements to the configuration of time-sensitive streams are provided by this amendment to IEEE Std 802.1Q-2018.</t>
+   </abstract>
+ </front>
+ <seriesInfo name='IEEE' value='802.1Qcc-2018' />
+ <seriesInfo name='DOI' value='10.1109/ieeestd.2018.8514112' />
+</reference>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE reference SYSTEM "rfc2629.dtd">
+
+<reference anchor="IEEE.1394.1995">
+<front>
+<title>Standard for a High Performance Serial Bus</title>
+<author>
+<organization></organization>
+</author>
+<date month="" year="1995" />
+</front>
+
+<seriesInfo name="IEEE" value="Standard 1394" />
+
+</reference>
